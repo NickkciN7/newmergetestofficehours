@@ -1,2 +1,6 @@
 def func1():
-    print("hello")
+    print("asdasdasd")
+    print("asdasdasd")
+    print("asdasdasd")
+    print("asdasdasd")
+
